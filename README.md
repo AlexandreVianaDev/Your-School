@@ -36,3 +36,4 @@ senha: 123456
 
 Vercel: https://your-school.vercel.app/
 Fake API: https://github.com/Kenzie-Schools-grupo05/json-server
+Github repositório original: https://github.com/Kenzie-Schools-grupo05/Your-School
