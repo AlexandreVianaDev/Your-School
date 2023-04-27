@@ -1,5 +1,5 @@
 # Resumo do projeto
-Your School é um MVP para controle e visualização de notas escolares.
+Your School é um MVP de uma aplicação de controle e visualização de notas escolares desenvolvido em grupo.
 Este projeto foi desenvolvido no final do terceiro módulo da Kenzie Academy (6 meses) e foi feito em equipe.
 
 # :hammer: Funcionalidades do projeto
