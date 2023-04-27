@@ -19,6 +19,7 @@ Este projeto foi desenvolvido no final do terceiro módulo da Kenzie Academy (6 
 - ``axios try catch``
 - ``styled-components``
 - ``toastify``
+- ``mobile-first``
 - ``Vite``
 - ``Yarn``
 - ``Vercel - hospedagem do front``
