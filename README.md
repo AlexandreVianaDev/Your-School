@@ -8,7 +8,7 @@ Este projeto foi desenvolvido no final do terceiro módulo da Kenzie Academy (6 
 - `Professores`: conseguem adicionar e remover alunos das turmas, conseguem acessar todos os alunos da turma para visualizar, adicionar, editar ou remover notas em várias matérias dos 3 trimestres. Conseguem ver se o aluno está ou não aprovado em cada matéria.
 - `Responsáveis`: conseguem visualizar a nota de todos os alunos pelos quais é responsável
 - `Alunos`: consegue visualizar somente sua própria nota
-
+ 
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``React-TS``
